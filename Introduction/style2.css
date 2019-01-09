@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:500')
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 1920px;
+    width: 1080px;
+
+
+}
+.intro {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url(forrest.png);
+    background-size: cover;
+    display: table;
+    top: 0;
+    left: 0;
+}
+.intro .inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding-bottom: 25%;
+}
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+.content h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #f9f3f4;
+    font-size: 550%;
+    text-shadow: 3px 3px #098fa8;
+}
+.btn {
+    font-size: 150%;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: #098fa8;
+    border: 2px solid #098fa8;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.btn:hover {
+    color: #156377;
+    border: 2px solid #156377;
+}
+
+
+
+
+
