@@ -7,12 +7,12 @@ body {
 }
 .main-section {
     margin: 0 auto;
-    margin-top: 130px;
+    margin-top: 120px;
     padding: 0;
 }
 .modal-content {
     background-color: #3b4652;
-    opacity: .95;
+    opacity: .90;
     padding: 0 18px;
     box-shadow: 0px 0px 3px #848484;
 }
@@ -31,7 +31,7 @@ body {
 }
 .form-group input {
     height: 42px;
-    border-radius: 5px;
+    border-radius: 6px;
     border: 0;
     font-size: 18px;
     padding-left: 54px;
@@ -61,7 +61,7 @@ button {
     font-size: 19px;
     font: #1c211d;
     padding: 7px 14px;
-    border-radius: 5px;
+    border-radius: 6px;
     border-bottom: 4px solid #219882;
 }
 .btn:hover, .btn:focus {
